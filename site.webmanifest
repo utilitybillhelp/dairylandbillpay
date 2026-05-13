@@ -1,0 +1,15 @@
+{
+"name":"Dairyland Insurance Quick Pay Guide",
+"short_name":"Dairyland Pay",
+"start_url":"/dairylandbillpay/",
+"display":"standalone",
+"background_color":"#ffffff",
+"theme_color":"#0f172a",
+"icons":[
+{
+"src":"https://www.dairylandinsurance.com/favicon.ico",
+"sizes":"64x64",
+"type":"image/x-icon"
+}
+]
+}
